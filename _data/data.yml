@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Renan Alencar
-    tagline: Full Stack Developer<br>Data Scientist
+    name: Renan Costa Alencar
+    tagline: Software Engineer<br>Full-Stack Developer
     avatar: img_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mr.costaalencar@gmail.com
-    phone: +55 (81) 99844-0630
-    website: linktr.ee/mr.costaalencar #do not add http://
+    email: renan.costaalencar@gmail.com
+    phone: +55 (81) 98233-5881
+    website: linktr.ee/renan.costaalencar #do not add http://
     linkedin: renancostaalencar
     github: renanalencar
     telegram: mrcostaalencar # add your nickname without '@' sign
@@ -54,74 +54,75 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am Computer Scientist working as a Full Stack Developer, and running a Doctorate in Computer Engineering (Computer Intelligence).
-      I also have a Master's degree in Computer Engineering (Computer Intelligence). You can [download my full CV/Resumé here](https://drive.google.com/file/d/1biXn6LsIOvKvJ1WAUZ9HZ0epZD2hJ5hx/view?usp=sharing).
+      Software Engineer with 4+ years of experience in full-stack development, specializing in .NET technologies, 
+      cloud platforms, and modern web frameworks. Currently pursuing a PhD in Computer Engineering with focus on 
+      Computer Intelligence and Machine Learning. Passionate about building scalable applications and leveraging 
+      data-driven solutions to solve complex business problems.
 education:
     - degree: PhD in Computer Engineering
       university: Universidade de Pernambuco
-      time: 2021 - 2025
+      time: 2021 - 2025 (expected)
       details: |
-        Doctorate in Computer Engineering (in progress) working on Computer Intelligence, 
-        Computer Vision, and Machine Learning.
-          - Network Science
-          - Logistics
-          - Diagnosis-Related Groups (DRG)
+        Doctoral research in Computer Engineering with focus on Computer Intelligence, 
+        Computer Vision, and Machine Learning applications.
+          - Research areas: Network Science, Logistics Optimization
+          - Healthcare data analysis and Diagnosis-Related Groups (DRG)
+          - Published multiple papers in international conferences
     - degree: MSc in Computer Engineering
       university: Universidade de Pernambuco
       time: 2016 - 2018
       details: |
-        Master's Degree in Computer Engineering working on Computer Intelligence.
-          - Multiple Travel Salesman Problem
-          - Swarm Intelligence
-          - Particle Swarm Optimization (PSO)
-          - Fish School Search (FSS)
+        Master's Degree in Computer Engineering specializing in Computer Intelligence 
+        and optimization algorithms.
+          - Thesis: Multiple Travel Salesman Problem solutions
+          - Research areas: Swarm Intelligence, Particle Swarm Optimization (PSO)
+          - Fish School Search (FSS) algorithm development
     - degree: BSc in Computer Science
       university: Faculdade de Ciências Aplicadas e Sociais de Petrolina
       time: 2014 - 2016
       details: |
-        Major in Computer Science with projects on Big Data and Data Mining for Education.
-          - Data Mining for Education
-          - Learning Management System (LMS)
-    - degree: BSc in Computer Engineering
-      university: California State University, Long Beach
-      time: 2012 - 2012
-      details: |
-        Non-degree programa for visiting international students in Computer Science/Engineering.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Computer Engineering
-      university: Universidade Federal do Vale do São Francisco
-      time: 2010 - 2014
-      details: |
-        Non-finished undergrad degree in Computer Engineering.
-          - Web Developer
-          - Arduino
+        Bachelor's degree in Computer Science with emphasis on Data Mining 
+        and Educational Technology.
+          - Specialized projects in Big Data and Data Mining for Education
+          - Learning Management System (LMS) development
+          - Educational data analytics and visualization
 experiences:
+    - role: Software Engineer
+      time: 2023 - Present
+      company: Banco do Brasil, Recife
+      details: |
+        Full-stack software engineer developing enterprise banking solutions and digital transformation initiatives.
+          - Developed and maintained critical banking applications using .NET Core and Angular
+          - Implemented microservices architecture for improved scalability and performance
+          - Collaborated with cross-functional teams to deliver high-quality software solutions
+          - Participated in code reviews and mentored junior developers
     - role: Software Developer (Windows)
-      time: 2021 - Present
+      time: 2021 - 2023
       company: SiDi - Instituto Samsung de Desenvolvimento e Inovação, Recife
       details: |
-        Full time Software Developer working on developing Windows apps.
-          - C#
-          - Microsoft .Net
-          - Universal Windows Platform (UWP)
-    - role: Softwre Development Analyst
+        Full-stack software developer working on Windows applications and mobile solutions.
+          - Developed Windows applications using C# and .NET Framework
+          - Built Universal Windows Platform (UWP) applications
+          - Worked with cross-platform development using Xamarin
+          - Implemented automated testing and CI/CD pipelines
+    - role: Software Development Analyst
       time: 2021 - 2021
       company: Accenture Brasil, Recife
       details: |
-        Full time Software Developer working on developing Single Page Applications (SPA).
-          - Angular 11
-          - Jasmine
-          - Karma
+        Software developer focused on modern web applications and cloud solutions.
+          - Developed Single Page Applications (SPA) using Angular 11
+          - Implemented unit testing with Jasmine and Karma
+          - Worked with agile methodologies and DevOps practices
+          - Contributed to client-facing projects in the financial sector
     - role: Full Stack Developer
-      time: 2020 - Present
+      time: 2020 - 2021
       company: Ser Educacional, Recife
       details: |
-        Full time Web Developer working on project management and developing internal websites.
-          - HTML5
-          - CSS3
-          - MySQL
-          - Jhipster
+        Full-stack web developer responsible for internal systems and educational platforms.
+          - Developed responsive web applications using HTML5, CSS3, and JavaScript
+          - Built backend services with Java and Spring Boot
+          - Worked with MySQL databases and JHipster framework
+          - Managed project timelines and collaborated with stakeholders
     # - role: Assistant Professor
     #   time: 2019 - 2021
     #   company: Centro Universitário dos Guararapes, Jaboatão dos Guararapes
@@ -194,38 +195,41 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java
-        level: 98%
-
-      - name: C/C++
-        level: 98%
-
-      - name: C#
-        level: 98%
-
-      - name: Javascript
-        level: 98%
-
-      - name: HTML5 & CSS3
+      - name: C# & .NET Core
         level: 95%
+
+      - name: Java & Spring Boot
+        level: 90%
+
+      - name: JavaScript & TypeScript
+        level: 90%
 
       - name: Angular
         level: 85%
-      
-      - name: Python
+
+      - name: HTML5 & CSS3
+        level: 90%
+
+      - name: SQL & Database Design
         level: 85%
       
-      - name: Computer Vision
+      - name: Python
         level: 80%
-
+      
       - name: Machine Learning
         level: 80%
 
-      - name: Flutter
-        level: 60%
+      - name: Computer Vision
+        level: 75%
 
-      - name: Design Patterns
-        level: 60%
+      - name: Cloud Platforms (Azure/AWS)
+        level: 70%
+
+      - name: Docker & Kubernetes
+        level: 70%
+
+      - name: Git & DevOps
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
