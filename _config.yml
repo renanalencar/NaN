@@ -2,8 +2,8 @@
 
 # Site Settings
 title: My Resume
-url: 'http://cv.renanalencar.eng.br'
-baseurl: '' #'/online-cv' #change it according to your repository name
+url: 'https://renanalencar.github.io'
+baseurl: '/online-cv' # Must match your GitHub repository name exactly
 description: Full Stack Developer and Data Scientist
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
@@ -20,6 +20,16 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Build settings
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# GitHub Pages settings
+github_pages: true
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 compress-site: yes
 
 encoding: "utf-8"
